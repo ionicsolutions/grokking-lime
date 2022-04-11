@@ -2,4 +2,5 @@ notebook==6.4.10
 visualime==0.0.2
 tensorflow-cpu==2.8.0
 pandas==1.4.2
-Pillow==
+Pillow==9.1.0
+
