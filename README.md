@@ -2,6 +2,8 @@
 
 Kilian Kluge @ PyConDE & PyData Berlin 2022, [April 12th 2022, 15:30, A1](https://2022.pycon.de/program/ZJUWZJ/)
 
+**The recording is [available on YouTube](https://www.youtube.com/watch?v=xijusY83dT4).**
+
 ## Abstract
 
 Machine learning models show outstanding performance at many tasks. 
